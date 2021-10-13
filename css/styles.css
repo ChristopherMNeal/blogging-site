@@ -1,0 +1,14 @@
+.post {
+  color:crimson;
+  text-indent: 5ch;
+  font-family: cursive;
+}
+
+.fancy {
+  color: blue;
+  font-size: 1.2em;
+}
+
+.italics {
+  font-style: italic;
+}
